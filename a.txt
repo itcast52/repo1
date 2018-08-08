@@ -2,8 +2,8 @@ hello
 world
 today
 true
-<<<<<<< HEAD
+
 bbbbbbb
-=======
+
 aaaaaaa
->>>>>>> 08a518af14ff906a5e2b270624b59d65dd51cc45
+
